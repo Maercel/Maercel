@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 My name is **Marcel**. I’m a student developer who loves building **apps** and **software**.
+- 🌱 Always learning something new
 <br><br/>
 
 # 🔨 Latest Project: 
