@@ -13,6 +13,19 @@ My name is **Marcel**. I’m a student developer who loves building **apps** and
   </a>
 </div>
 
+# ⬆️Top 3 projects: 
+<div align="center">
+  <a href="https://github.com/Maercel/smart-mailbox-android-v2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" />
+  </a>
+  <a href="https://github.com/S1monPet/Olusion">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" />
+  </a>
+  <a href="https://github.com/Maercel/tcp-chatroom">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" />
+  </a>
+</div>
+
 # 💻 Tech Stack:
 <div>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
