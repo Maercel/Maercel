@@ -15,8 +15,7 @@ My name is **Marcel**. I’m a student developer who loves building **apps** and
   <a href="https://github.com/Maercel/smart-mailbox-android-v2">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width="32%"></a>
   <a href="https://github.com/S1monPet/Olusion">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=S1monPet&repo=Olusion&theme=dark" alt="Olusion" width="32%"/>
-  </a>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=S1monPet&repo=Olusion&theme=dark" alt="Olusion" width="32%"/></a>
   <a href="https://github.com/Maercel/tcp-chatroom">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=tcp-chatroom&theme=dark" alt="TCP Chatroom" width="32%"/></a>
 </div>
