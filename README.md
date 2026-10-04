@@ -1,6 +1,4 @@
-# ⚡ Introduction:
-
-### Hi there 👋
+# Hi there 👋
 
 My name is **Marcel**. I’m a student developer who loves building **apps** and **software**.
 - 🌱 Always learning something new
@@ -12,7 +10,7 @@ My name is **Marcel**. I’m a student developer who loves building **apps** and
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width=40%/></a>
 </div>
 
-# ⬆️Top 3 projects: 
+# ⬆️ Top 3 projects: 
 <div align="center">
   <a href="https://github.com/Maercel/smart-mailbox-android-v2">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width="32%"></a>
