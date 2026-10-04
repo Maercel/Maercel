@@ -1,15 +1,17 @@
 # Hi there 👋
 
 My name is **Marcel**. I’m a student developer who loves building **apps** and **software**.
+- 🔭 Recently built [SmartMailbox](https://github.com/Maercel/smart-mailbox-android-v2), an Android app to manage smart mailboxes
 - 🌱 Always learning something new
 <br><br/>
 
+<!--
 # 🔨 Latest Project: 
 <div align="center">
   <a href="https://github.com/Maercel/smart-mailbox-android-v2">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width=50%/></a>
 </div>
-
+-->
 # ⬆️ Top 3 Projects: 
 <div align="center">
   <a href="https://github.com/Maercel/smart-mailbox-android-v2">
