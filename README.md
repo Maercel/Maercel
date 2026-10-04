@@ -7,7 +7,7 @@ My name is **Marcel**. I’m a student developer who loves building **apps** and
 # 🔨 Latest Project: 
 <div align="center">
   <a href="https://github.com/Maercel/smart-mailbox-android-v2">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width=50%/></a>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Maercel&repo=smart-mailbox-android-v2&theme=dark" alt="SmartMailbox" width=60%/></a>
 </div>
 
 # ⬆️ Top 3 Projects: 
