@@ -60,9 +60,8 @@ My name is **Marcel**. I’m a student developer who loves building **apps** and
 ![](https://github-readme-stats.shion.dev/api?username=Maercel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maercel&theme=dark&layout=compact" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Maercel&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maercel&theme=dark&layout=compact&hide=makefile,cmake" alt="Top languages" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Maercel&theme=dark" alt="GitHub streak" height="150"/>
 </div>
 
 ---
